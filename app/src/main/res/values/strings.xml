@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyPrompter</string>
+    <string name="default_script">Welcome to MyPrompter!\n\nTap here to edit your script.\n\nYou can import text from files, Google Drive, or URLs.\n\nClick the Scripts button to view all your saved scripts.\n\nClick Settings to customize your teleprompter experience.\n\nHappy filming!</string>
+    <!-- ADD THIS LINE FOR FIREBASE -->
+    <string name="default_web_client_id" translatable="false">1:1053676922742:android:c046cf783a08fa6914bc57</string>
+    <string name="play_pause">Play/Pause Scrolling</string>
+    <string name="decrease_speed">Decrease Speed</string>
+    <string name="increase_speed">Increase Speed</string>
+    <string name="record_video">Record Video</string>
+    <string name="scripts_history">Scripts</string>
+    <string name="settings">Settings</string>
+    <string name="import_text">Import Text</string>
+    <string name="save_script">Save Script</string>
+    <string name="delete_script">Delete</string>
+    <string name="edit_script">Edit</string>
+    <string name="developer_info">About Developer</string>
+</resources>

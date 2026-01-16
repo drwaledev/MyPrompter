@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053676922742",
+    "project_id": "myprompter-70838",
+    "storage_bucket": "myprompter-70838.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053676922742:android:c046cf783a08fa6914bc57",
+        "android_client_info": {
+          "package_name": "com.wtcb.myprompter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053676922742-fjm4vr2u16uhbirj77skm8rctjms4jjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wtcb.myprompter",
+            "certificate_hash": "2633c236f65604a25148efe9d9d5d82efcc32aa2"
+          }
+        },
+        {
+          "client_id": "1053676922742-tugs1r4l9141rt0phve2mqh8dgdqov3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48OkDYSZXzRWNipDIy1ZRUfrttt1oFAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053676922742-tugs1r4l9141rt0phve2mqh8dgdqov3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

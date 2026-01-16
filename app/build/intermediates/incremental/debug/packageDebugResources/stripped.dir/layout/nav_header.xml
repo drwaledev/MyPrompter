@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/gradient_primary"
+    android:gravity="bottom">
+
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/ic_launcher_foreground"
+        android:background="@drawable/card_background"
+        android:padding="8dp"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="App Logo" />
+
+    <TextView
+        android:id="@+id/headerTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MyPrompter"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/headerSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Professional Teleprompter"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:alpha="0.9"
+        android:layout_marginTop="4dp" />
+
+</LinearLayout>

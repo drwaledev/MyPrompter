@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/item_recording.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/item_recording.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/item_welcome_slide.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/item_welcome_slide.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/nav_header.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_scripts.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_scripts.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_login.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_welcome.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_splash.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_add_image.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_add_image.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/fragment_scripts_list.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/fragment_scripts_list.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_add_text.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_add_text.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/item_script.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/item_script.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_video_preview.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_video_preview.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_settings.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.wtcb.myprompter.app-mergeDebugResources-65:/layout/activity_video_trim.xml",
+        "source": "com.wtcb.myprompter.app-main-68:/layout/activity_video_trim.xml"
+    }
+]

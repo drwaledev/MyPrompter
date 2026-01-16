@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_purple">#9C27B0</color>
+    <color name="accent_gradient_start">#2196F3</color>
+    <color name="accent_gradient_end">#9C27B0</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="background_medium">#1E1E1E</color>
+    <color name="background_light">#2C2C2C</color>
+    <color name="background_card">#252525</color>
+
+    <!-- Text Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#757575</color>
+
+    <!-- Status Colors -->
+    <color name="red">#F44336</color>
+    <color name="red_dark">#C62828</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+
+    <!-- Misc -->
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_overlay">#80000000</color>
+    <color name="divider">#303030</color>
+</resources>

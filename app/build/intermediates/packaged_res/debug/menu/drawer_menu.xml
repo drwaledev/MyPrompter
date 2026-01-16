@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+
+        <item android:title="Account">
+            <menu>
+                <item
+                    android:id="@+id/menu_account"
+                    android:icon="@android:drawable/ic_menu_myplaces"
+                    android:title="Account &amp; Sync" />
+            </menu>
+        </item>
+
+        <item android:title="Text Settings">
+            <menu>
+                <item
+                    android:id="@+id/menu_font_size"
+                    android:icon="@android:drawable/ic_menu_edit"
+                    android:title="Font Size" />
+
+                <item
+                    android:id="@+id/menu_text_color"
+                    android:icon="@android:drawable/ic_menu_edit"
+                    android:title="Text Color" />
+
+                <item
+                    android:id="@+id/menu_text_opacity"
+                    android:icon="@android:drawable/ic_menu_view"
+                    android:title="Text Opacity" />
+            </menu>
+        </item>
+
+        <item android:title="Recording Settings">
+            <menu>
+                <item
+                    android:id="@+id/menu_countdown"
+                    android:icon="@android:drawable/ic_menu_recent_history"
+                    android:title="Countdown Timer" />
+
+                <item
+                    android:id="@+id/menu_camera"
+                    android:icon="@android:drawable/ic_menu_camera"
+                    android:title="Camera Position" />
+
+                <item
+                    android:id="@+id/menu_video_quality"
+                    android:icon="@android:drawable/ic_menu_gallery"
+                    android:title="Video Quality" />
+
+                <item
+                    android:id="@+id/menu_audio"
+                    android:icon="@android:drawable/ic_btn_speak_now"
+                    android:title="Audio Recording" />
+            </menu>
+        </item>
+
+        <item android:title="Points &amp; Limits">
+            <menu>
+                <item
+                    android:id="@+id/menu_earn_points"
+                    android:icon="@android:drawable/btn_star_big_on"
+                    android:title="Earn Points (Watch Ads)" />
+
+                <item
+                    android:id="@+id/menu_extend_limit"
+                    android:icon="@android:drawable/ic_menu_add"
+                    android:title="Extend Word Limit" />
+            </menu>
+        </item>
+
+        <item android:title="More">
+            <menu>
+                <item
+                    android:id="@+id/menu_developer"
+                    android:icon="@android:drawable/ic_menu_info_details"
+                    android:title="About Developer" />
+            </menu>
+        </item>
+
+    </group>
+</menu>

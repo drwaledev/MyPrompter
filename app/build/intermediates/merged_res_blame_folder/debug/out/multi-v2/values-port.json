@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.wtcb.myprompter.app-mergeDebugResources-64:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Adewale\\.gradle\\caches\\transforms-4\\252480fe7b3ae812c12e2e4c62c8bba2\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_gradient_end">#9C27B0</color>
+    <color name="accent_gradient_start">#2196F3</color>
+    <color name="accent_purple">#9C27B0</color>
+    <color name="background_card">#252525</color>
+    <color name="background_dark">#121212</color>
+    <color name="background_light">#2C2C2C</color>
+    <color name="background_medium">#1E1E1E</color>
+    <color name="black">#000000</color>
+    <color name="divider">#303030</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="red">#F44336</color>
+    <color name="red_dark">#C62828</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_overlay">#80000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">MyPrompter</string>
+    <string name="decrease_speed">Decrease Speed</string>
+    <string name="default_script">Welcome to MyPrompter!\n\nTap here to edit your script.\n\nYou can import text from files, Google Drive, or URLs.\n\nClick the Scripts button to view all your saved scripts.\n\nClick Settings to customize your teleprompter experience.\n\nHappy filming!</string>
+    <string name="default_web_client_id" translatable="false">1053676922742-tugs1r4l9141rt0phve2mqh8dgdqov3o.apps.googleusercontent.com</string>
+    <string name="delete_script">Delete</string>
+    <string name="developer_info">About Developer</string>
+    <string name="edit_script">Edit</string>
+    <string name="gcm_defaultSenderId" translatable="false">1053676922742</string>
+    <string name="google_api_key" translatable="false">AIzaSyD48OkDYSZXzRWNipDIy1ZRUfrttt1oFAE</string>
+    <string name="google_app_id" translatable="false">1:1053676922742:android:c046cf783a08fa6914bc57</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD48OkDYSZXzRWNipDIy1ZRUfrttt1oFAE</string>
+    <string name="google_storage_bucket" translatable="false">myprompter-70838.firebasestorage.app</string>
+    <string name="import_text">Import Text</string>
+    <string name="increase_speed">Increase Speed</string>
+    <string name="play_pause">Play/Pause Scrolling</string>
+    <string name="project_id" translatable="false">myprompter-70838</string>
+    <string name="record_video">Record Video</string>
+    <string name="save_script">Save Script</string>
+    <string name="scripts_history">Scripts</string>
+    <string name="settings">Settings</string>
+    <style name="Base.Theme.MyPrompter" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent_blue</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.MyPrompter" parent="Base.Theme.MyPrompter"/>
+    <style name="Theme.MyPrompter.NoActionBar" parent="Theme.MyPrompter">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
